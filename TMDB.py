@@ -1,6 +1,8 @@
 import tkinter as tk
 import requests
 
+# api_key, access_token -> https://www.themoviedb.org/settings/api
+
 root = tk.Tk()
 root.title("TMDB Movie Revenue")
 root.geometry("350x500")
